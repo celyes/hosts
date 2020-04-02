@@ -1,6 +1,6 @@
 # hosts-file
 
-Hosts file that helps block more than 70.000 thousands unwanted websites.
+Hosts file that helps block more than 74.000 unwanted websites.
 
 ### Can block:
 
