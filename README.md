@@ -4,7 +4,9 @@ Hosts file that helps block more than 70.000 thousands unwanted websites.
 
 ### Can block:
 
-- pornography website
+- pornography websites
+- gambling websites
+- fake news websites
 - advertisment platforms (including AdSense).
 
 ### Usage:
